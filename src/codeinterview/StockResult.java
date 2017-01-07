@@ -1,4 +1,4 @@
-package stocquestion;
+package codeinterview;
 
 import java.util.Scanner;
 
