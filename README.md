@@ -49,3 +49,4 @@
   
 # Study  
 1. QuickSort  
+2. LinkedList  
